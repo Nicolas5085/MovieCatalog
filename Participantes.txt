@@ -1,0 +1,3 @@
+Vitor Alves Cronemberg - Context, API e Componentes
+Carlos Eduardo Damásio macambira Lustosa - Estrutura e Configuração
+Nicolas Rômulo Gomes Nascimento - Páginas e Hooks
